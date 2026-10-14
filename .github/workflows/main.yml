@@ -1,4 +1,4 @@
-name: vulnpy1
+name: vulnpy
 
 on:
   push:                                       
